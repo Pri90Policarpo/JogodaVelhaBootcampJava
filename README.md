@@ -12,19 +12,19 @@ Este é um jogo da velha implementado em HTML, CSS e JavaScript. Dois jogadores 
 ## Estrutura do Código
 
 - **HTML:** O arquivo HTML contém a estrutura básica do jogo com um tabuleiro e mensagens de vitória/empate.
-- **CSS:** O arquivo de estilo CSS define a aparência do jogo, incluindo a aparência das células do tabuleiro e a animação de destaque ao passar o mouse sobre as células.
+- **CSS:** O arquivo de estilo CSS define a aparência do jogo.
 - **JavaScript:** O arquivo JavaScript controla a lógica do jogo. Ele define funções para verificar vitória, empate, alternância de turnos e reinício do jogo.
 
 ## Funcionalidades Implementadas
 
-- **Alternância de Turnos:** Os jogadores alternam automaticamente entre "X" e "O" após cada jogada.
 - **Verificação de Vitória:** O jogo verifica se há um vencedor após cada jogada.
 - **Verificação de Empate:** Se todas as células estiverem preenchidas e não houver um vencedor, o jogo termina em empate.
 - **Botão de Reinício:** Após o término do jogo, você pode clicar no botão "Reiniciar!" para começar um novo jogo.
+- Verificação de jogada: ** o jogo mostra quem fará a próxima jogada.
 
 ## Como Iniciar o Jogo
 
-Para iniciar o jogo, abra o arquivo HTML em um navegador da web. Clique nas células do tabuleiro para fazer suas jogadas. Quando o jogo terminar, você verá uma mensagem indicando o vencedor ou um empate. Clique no botão "Reiniciar!" para jogar novamente.
+Para iniciar o jogo, abra o arquivo HTML em um navegador da web. Clique nas células do tabuleiro para fazer suas jogadas. Quando o jogo terminar, você verá uma mensagem indicando o vencedor ou um empate. Clique no botão "Ok!" para jogar novamente.
 
 
 
